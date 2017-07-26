@@ -1,2 +1,2 @@
 # Hunch-India
-Hunch app Indian version.
+This app runs on Indian AWS server.
