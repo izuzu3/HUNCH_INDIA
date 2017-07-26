@@ -11,7 +11,7 @@ var h_power = 0; var h_hours=0;
 
 var ltpower; var lthours; var btpower; var bthours; var ktpower; var kthours; var rtpower; var rthours;
 
-var address = "ws://13.58.235.223:9101";
+var address = "ws://13.126.140.101:9101";
 var socket = new WebSocket(address);
 socket.onopen = function() {
 	if (socket) {
